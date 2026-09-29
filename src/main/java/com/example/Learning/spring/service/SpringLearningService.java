@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class SpringLearningService {
 
     public String helloWorld(){
-        return "Hi i am afroz";
+        return "hello world";
 
 
 
